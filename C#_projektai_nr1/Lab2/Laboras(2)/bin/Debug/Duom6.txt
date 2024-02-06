@@ -1,0 +1,6 @@
+﻿Tornadas
+Jonas; Jonaitis; 18; 215;
+Matas; Matutis; 19; 200;
+Rokas; Rokutis; 20; 191;
+Lukas; Lukenas; 19; 199;
+Titas; Titenas; 17; 194;

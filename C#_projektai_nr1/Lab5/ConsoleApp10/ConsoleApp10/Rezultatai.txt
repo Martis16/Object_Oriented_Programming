@@ -1,0 +1,40 @@
+First data
+
+Teams:
+------------------------------------------------------------
+|Liverpool FC        | Liverpool     | Klopp    | Jurgen   |
+------------------------------------------------------------
+|Chelsea FC          | London        | Tuchel   | Thomas   |
+------------------------------------------------------------
+|Manchester United   | Manchester    | Rangnick | Ralf     |
+------------------------------------------------------------
+|Manchester City     | Manchester    | Guardiola| Josep    |
+------------------------------------------------------------
+|Arsenal             | London        | Arteta   | Mikel    |
+------------------------------------------------------------
+Data matrix
+0;1;2;4;2;
+2;0;1;1;0;
+2;0;0;5;1;
+3;1;1;0;1;
+1;0;1;0;0;
+
+
+-----------------------------------------------------------------
+|Chelsea FC          | London        | Tuchel   | Thomas   |8  |
+---------------------------------------------------------------
+|Liverpool FC        | Liverpool     | Klopp    | Jurgen   |7  |
+---------------------------------------------------------------
+|Manchester United   | Manchester    | Rangnick | Ralf     |5  |
+---------------------------------------------------------------
+|Manchester City     | Manchester    | Guardiola| Josep    |4  |
+---------------------------------------------------------------
+|Arsenal             | London        | Arteta   | Mikel    |2  |
+---------------------------------------------------------------
+
+
+Team with most goals:
+Liverpool FC scored: 9 goals 
+
+Team With most matches without conceded goals:
+Team: Arsenal has most matches without conceding a goal.

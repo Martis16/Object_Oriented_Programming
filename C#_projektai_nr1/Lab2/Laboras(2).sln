@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboras(2)", "Laboras(2)\Laboras(2).csproj", "{A1AFD86A-943E-4048-97AE-4592AC93B2D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7EB3BDFF-3437-494F-87BC-84F383F30796}"
+	ProjectSection(SolutionItems) = preProject
+		Laboras(2)\bin\Debug\Duom6.txt = Laboras(2)\bin\Debug\Duom6.txt
+		Laboras(2)\bin\Debug\Duom7.txt = Laboras(2)\bin\Debug\Duom7.txt
+		Laboras(2)\Rez.txt = Laboras(2)\Rez.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1AFD86A-943E-4048-97AE-4592AC93B2D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1AFD86A-943E-4048-97AE-4592AC93B2D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1AFD86A-943E-4048-97AE-4592AC93B2D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1AFD86A-943E-4048-97AE-4592AC93B2D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A08BCE5B-E0FB-495C-85CF-3D8705832DED}
+	EndGlobalSection
+EndGlobal

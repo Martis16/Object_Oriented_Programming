@@ -1,0 +1,29 @@
+C:\Users\Martynas\source\repos\p5lab\p5lab\bin\Debug\Tekstas.txt
+C:\Users\Martynas\source\repos\p5lab\p5lab\bin\Debug\p5lab.exe.config
+C:\Users\Martynas\source\repos\p5lab\p5lab\bin\Debug\p5lab.exe
+C:\Users\Martynas\source\repos\p5lab\p5lab\bin\Debug\p5lab.pdb
+C:\Users\Martynas\source\repos\p5lab\p5lab\obj\Debug\p5lab.csprojAssemblyReference.cache
+C:\Users\Martynas\source\repos\p5lab\p5lab\obj\Debug\p5lab.csproj.CoreCompileInputs.cache
+C:\Users\Martynas\source\repos\p5lab\p5lab\obj\Debug\p5lab.exe
+C:\Users\Martynas\source\repos\p5lab\p5lab\obj\Debug\p5lab.pdb
+C:\Users\Martynas\source\repos\p5lab\p5lab\bin\Debug\Rez.txt
+C:\Users\Martynas\Desktop\p5lab\obj\Debug\p5lab.csprojAssemblyReference.cache
+C:\Users\Martynas\Desktop\p5lab\obj\Debug\p5lab.csproj.CoreCompileInputs.cache
+C:\Users\Martynas\Desktop\p5lab\obj\Debug\p5lab.exe
+C:\Users\Martynas\Desktop\p5lab\obj\Debug\p5lab.pdb
+C:\Users\Martynas\Desktop\p5lab\bin\Debug\p5lab.exe.config
+C:\Users\Martynas\Desktop\p5lab\bin\Debug\p5lab.exe
+C:\Users\Martynas\Desktop\p5lab\bin\Debug\p5lab.pdb
+C:\Users\Martynas\Desktop\p5lab\bin\Debug\Results.txt
+C:\Users\Martynas\Desktop\p5lab\bin\Debug\Text.txt
+C:\Users\Martynas\Desktop\p5lab\bin\Debug\Analysis.txt
+C:\Mokslai\programavimo failai\p5lab\bin\Debug\Results.txt
+C:\Mokslai\programavimo failai\p5lab\bin\Debug\Text.txt
+C:\Mokslai\programavimo failai\p5lab\bin\Debug\Analysis.txt
+C:\Mokslai\programavimo failai\p5lab\bin\Debug\p5lab.exe.config
+C:\Mokslai\programavimo failai\p5lab\bin\Debug\p5lab.exe
+C:\Mokslai\programavimo failai\p5lab\bin\Debug\p5lab.pdb
+C:\Mokslai\programavimo failai\p5lab\obj\Debug\p5lab.csprojAssemblyReference.cache
+C:\Mokslai\programavimo failai\p5lab\obj\Debug\p5lab.csproj.CoreCompileInputs.cache
+C:\Mokslai\programavimo failai\p5lab\obj\Debug\p5lab.exe
+C:\Mokslai\programavimo failai\p5lab\obj\Debug\p5lab.pdb

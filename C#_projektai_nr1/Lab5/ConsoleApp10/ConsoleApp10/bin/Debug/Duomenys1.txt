@@ -1,0 +1,10 @@
+﻿4
+Liverpool FC; Liverpool; Klopp; Jurgen;
+Chelsea FC; London; Tuchel; Thomas;
+Manchester United; Manchester; Rangnick; Ralf;
+Manchester City; Manchester; Guardiola; Josep;
+0;2;0;
+3;0;0;
+2;1;0;
+1; 1; 1;0;
+

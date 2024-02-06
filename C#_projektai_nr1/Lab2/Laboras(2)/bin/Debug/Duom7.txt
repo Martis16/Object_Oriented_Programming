@@ -1,0 +1,6 @@
+﻿Žalgirirs
+rytis; rytenas; 20; 190;
+nojus; nojenas; 21; 185;
+zenius; zeniukas; 22; 191;
+tadas; tadenas; 19; 202;
+rokas; rukelis; 18; 210;

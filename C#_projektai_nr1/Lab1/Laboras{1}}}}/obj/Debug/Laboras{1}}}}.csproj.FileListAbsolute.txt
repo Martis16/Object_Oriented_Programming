@@ -1,0 +1,7 @@
+C:\Users\Martynas\source\repos\Laboras{1}}}}\Laboras{1}}}}\bin\Debug\Laboras{1}}}}.exe.config
+C:\Users\Martynas\source\repos\Laboras{1}}}}\Laboras{1}}}}\bin\Debug\Laboras{1}}}}.exe
+C:\Users\Martynas\source\repos\Laboras{1}}}}\Laboras{1}}}}\bin\Debug\Laboras{1}}}}.pdb
+C:\Users\Martynas\source\repos\Laboras{1}}}}\Laboras{1}}}}\obj\Debug\Laboras{1}}}}.csprojAssemblyReference.cache
+C:\Users\Martynas\source\repos\Laboras{1}}}}\Laboras{1}}}}\obj\Debug\Laboras{1}}}}.csproj.CoreCompileInputs.cache
+C:\Users\Martynas\source\repos\Laboras{1}}}}\Laboras{1}}}}\obj\Debug\Laboras{1}}}}.exe
+C:\Users\Martynas\source\repos\Laboras{1}}}}\Laboras{1}}}}\obj\Debug\Laboras{1}}}}.pdb

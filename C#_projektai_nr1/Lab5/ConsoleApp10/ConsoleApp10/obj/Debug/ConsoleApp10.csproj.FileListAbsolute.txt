@@ -1,0 +1,10 @@
+C:\Users\Martynas\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\Duomenys.txt
+C:\Users\Martynas\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\Rezultatai.txt
+C:\Users\Martynas\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+C:\Users\Martynas\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+C:\Users\Martynas\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+C:\Users\Martynas\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csprojAssemblyReference.cache
+C:\Users\Martynas\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\Martynas\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+C:\Users\Martynas\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
+C:\Users\Martynas\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\Duomenys1.txt
