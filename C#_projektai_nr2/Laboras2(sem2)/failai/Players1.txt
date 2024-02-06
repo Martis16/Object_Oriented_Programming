@@ -1,0 +1,6 @@
+﻿Tornadas
+Nojus Noajaitis;  18; 190;
+Jonas Jonaitis;   19; 185;
+Rokas Rokaitis;   18; 188;
+Matas Mataitis;   15; 192;
+Lukas Lukaitis;   16; 184;

@@ -1,0 +1,10 @@
+C:\Users\Martynas\source\repos\LAB5_sem2\LAB5_sem2\obj\Debug\LAB5_sem2.csprojAssemblyReference.cache
+C:\Users\Martynas\source\repos\LAB5_sem2\LAB5_sem2\obj\Debug\LAB5_sem2.Form1.resources
+C:\Users\Martynas\source\repos\LAB5_sem2\LAB5_sem2\obj\Debug\LAB5_sem2.Properties.Resources.resources
+C:\Users\Martynas\source\repos\LAB5_sem2\LAB5_sem2\obj\Debug\LAB5_sem2.csproj.GenerateResource.cache
+C:\Users\Martynas\source\repos\LAB5_sem2\LAB5_sem2\obj\Debug\LAB5_sem2.csproj.CoreCompileInputs.cache
+C:\Users\Martynas\source\repos\LAB5_sem2\LAB5_sem2\bin\Debug\LAB5_sem2.exe.config
+C:\Users\Martynas\source\repos\LAB5_sem2\LAB5_sem2\bin\Debug\LAB5_sem2.exe
+C:\Users\Martynas\source\repos\LAB5_sem2\LAB5_sem2\bin\Debug\LAB5_sem2.pdb
+C:\Users\Martynas\source\repos\LAB5_sem2\LAB5_sem2\obj\Debug\LAB5_sem2.exe
+C:\Users\Martynas\source\repos\LAB5_sem2\LAB5_sem2\obj\Debug\LAB5_sem2.pdb

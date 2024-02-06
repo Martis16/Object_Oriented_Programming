@@ -1,0 +1,10 @@
+C:\Users\Martynas\source\repos\LAB4_sem(2)\LAB4_sem(2)\obj\Debug\LAB4_sem_2_.Form1.resources
+C:\Users\Martynas\source\repos\LAB4_sem(2)\LAB4_sem(2)\obj\Debug\LAB4_sem_2_.Properties.Resources.resources
+C:\Users\Martynas\source\repos\LAB4_sem(2)\LAB4_sem(2)\obj\Debug\LAB4_sem(2).csproj.GenerateResource.cache
+C:\Users\Martynas\source\repos\LAB4_sem(2)\LAB4_sem(2)\obj\Debug\LAB4_sem(2).csproj.CoreCompileInputs.cache
+C:\Users\Martynas\source\repos\LAB4_sem(2)\LAB4_sem(2)\bin\Debug\LAB4_sem(2).exe.config
+C:\Users\Martynas\source\repos\LAB4_sem(2)\LAB4_sem(2)\bin\Debug\LAB4_sem(2).exe
+C:\Users\Martynas\source\repos\LAB4_sem(2)\LAB4_sem(2)\bin\Debug\LAB4_sem(2).pdb
+C:\Users\Martynas\source\repos\LAB4_sem(2)\LAB4_sem(2)\obj\Debug\LAB4_sem(2).exe
+C:\Users\Martynas\source\repos\LAB4_sem(2)\LAB4_sem(2)\obj\Debug\LAB4_sem(2).pdb
+C:\Users\Martynas\source\repos\LAB4_sem(2)\LAB4_sem(2)\obj\Debug\LAB4_sem(2).csprojAssemblyReference.cache

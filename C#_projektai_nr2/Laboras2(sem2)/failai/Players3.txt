@@ -1,0 +1,6 @@
+Povilas Povilaitis;
+Jokubas Jokubas;     19; 195;
+Dovydas Dovydaitis;     20; 190;
+Laurynas Laurinaitis;   17; 188;
+Vytautas Vytenas;       17; 192;
+Justas Justenas;        19; 187;

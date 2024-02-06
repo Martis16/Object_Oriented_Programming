@@ -1,0 +1,6 @@
+﻿Perkunas
+Benas Benaitis;  18; 195;
+Julius Julaitis; 17; 183;
+Gedas Gedaitis;  19; 187;
+Tomas Tomaitis;  15; 188;
+Rytis Rytenas;   18; 190;

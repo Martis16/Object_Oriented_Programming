@@ -1,0 +1,14 @@
+﻿U1-2. Krepšinis.
+
+Krepšinio mokykloje treniruotes lankančių sąrašas yra tekstiniame faile: būsimo krepšininko vardas ir pavardė, amžius
+ir ūgis. Pirmoje eilutėje yra krepšinio mokyklos pavadinimas. Turime dviejų mokyklų duomenis.
+
+L1+L2+L4:
+1. Raskite, koks būsimų krepšininkų amžiaus vidurkis ir koks ūgio vidurkis kiekvienoje mokykloje.
+2. Surašykite į atskirą rinkinį visus abiejų mokyklų sportininkus, kurių ūgis didesnis už vidurkį.
+3. Surikiuokite rezultatų sąrašą amžiaus didėjimo tvarka.
+4. Pašalinkite iš rezultatų sąrašo krepšininkus, kurių amžius yra didesnis už nurodytą klaviatūra.
+
+L2 papildymas:
+1. Papildykite surikiuotą rezultatų sąrašą naujais krepšininkais, kurių ūgis didesnis, už sudaryto sąrašo krepšininkų
+ūgio vidurkį. Duomenys yra atskirame faile. Pirmoje eilutėje – vadybininko vardas ir pavardė.

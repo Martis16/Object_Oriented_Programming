@@ -1,0 +1,69 @@
+
+
+ Tornadas
+-----------------------------------
+ Nr. |Name and Surname| Age| Height| 
+-----------------------------------
+1     Nojus Noajaitis   18    190
+2     Jonas Jonaitis    19    185
+3     Rokas Rokaitis    18    188
+4     Matas Mataitis    15    192
+5     Lukas Lukaitis    16    184
+-----------------------------------
+
+
+
+ Perkunas
+-----------------------------------
+ Nr. |Name and Surname| Age| Height| 
+-----------------------------------
+1     Benas Benaitis    20    195
+2     Julius Julaitis   18    183
+3     Gedas Gedaitis    18    187
+4     Tomas Tomaitis    15    188
+5     Rytis Rytenas     18    190
+-----------------------------------
+
+Tornadas Avarage age is: 17.2
+
+Tornadas Avarage height is: 187.8
+
+
+Perkunas Avarage age is: 17.8
+
+Perkunas Avarage height is: 188.6
+
+
+ Players above avg Height
+-----------------------------------
+ Nr. |Name and Surname| Age| Height| 
+-----------------------------------
+1     Nojus Noajaitis   18    190
+2     Rokas Rokaitis    18    188
+3     Matas Mataitis    15    192
+4     Benas Benaitis    20    195
+5     Rytis Rytenas     18    190
+-----------------------------------
+
+
+
+ Sorted List
+-----------------------------------
+ Nr. |Name and Surname| Age| Height| 
+-----------------------------------
+1     Matas Mataitis    15    192
+2     Nojus Noajaitis   18    190
+3     Rokas Rokaitis    18    188
+4     Rytis Rytenas     18    190
+5     Benas Benaitis    20    195
+-----------------------------------
+
+
+
+ Removed List
+-----------------------------------
+ Nr. |Name and Surname| Age| Height| 
+-----------------------------------
+1     Matas Mataitis    15    192
+-----------------------------------
+

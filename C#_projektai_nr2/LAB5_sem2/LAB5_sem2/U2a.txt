@@ -1,0 +1,16 @@
+﻿4586598;antradienis;15:45;10;
+8463518;pirmadienis;10:00;8;
+8972320;treciadienis;11:20;8;
+3651406;penktadienis;13:45;11;
+9876218;antradienis;10:45;8;
+6555328;ketvirtadienis;11:30;6;
+0318898;pirmadienis;18:45;12;
+7894534;penktadienis;12:30;10;
+6523816;antradienis;10:00;5;
+4533184;antradienis;12:30;7;
+8231681;treciadienis;14:40;7;
+0350516;penktadienis;20:00;13;
+9632167;ketvirtadienis;16:15;6;
+6458634;ketvirtadienis;17:30;5;
+7417987;antradienis;13:10;4;
+9846100;pirmadienis;14:20;4;

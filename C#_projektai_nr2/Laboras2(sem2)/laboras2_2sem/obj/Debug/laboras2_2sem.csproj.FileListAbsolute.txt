@@ -1,0 +1,25 @@
+C:\Users\marbur4\Desktop\MB\laboras2_2sem\obj\Debug\laboras2_2sem.csprojAssemblyReference.cache
+C:\Users\marbur4\Desktop\MB\laboras2_2sem\obj\Debug\laboras2_2sem.Form1.resources
+C:\Users\marbur4\Desktop\MB\laboras2_2sem\obj\Debug\laboras2_2sem.Properties.Resources.resources
+C:\Users\marbur4\Desktop\MB\laboras2_2sem\obj\Debug\laboras2_2sem.csproj.GenerateResource.cache
+C:\Users\marbur4\Desktop\MB\laboras2_2sem\obj\Debug\laboras2_2sem.csproj.CoreCompileInputs.cache
+C:\Users\Martynas\Desktop\Laboras2(sem2)\laboras2_2sem\obj\Debug\laboras2_2sem.Form1.resources
+C:\Users\Martynas\Desktop\Laboras2(sem2)\laboras2_2sem\obj\Debug\laboras2_2sem.Properties.Resources.resources
+C:\Users\Martynas\Desktop\Laboras2(sem2)\laboras2_2sem\obj\Debug\laboras2_2sem.csproj.GenerateResource.cache
+C:\Users\Martynas\Desktop\Laboras2(sem2)\laboras2_2sem\obj\Debug\laboras2_2sem.csproj.CoreCompileInputs.cache
+C:\Users\Martynas\Desktop\Laboras2(sem2)\laboras2_2sem\bin\Debug\laboras2_2sem.exe.config
+C:\Users\Martynas\Desktop\Laboras2(sem2)\laboras2_2sem\bin\Debug\laboras2_2sem.exe
+C:\Users\Martynas\Desktop\Laboras2(sem2)\laboras2_2sem\bin\Debug\laboras2_2sem.pdb
+C:\Users\Martynas\Desktop\Laboras2(sem2)\laboras2_2sem\obj\Debug\laboras2_2sem.exe
+C:\Users\Martynas\Desktop\Laboras2(sem2)\laboras2_2sem\obj\Debug\laboras2_2sem.pdb
+C:\Users\Martynas\Desktop\Laboras2(sem2)\laboras2_2sem\obj\Debug\laboras2_2sem.csprojAssemblyReference.cache
+C:\Mokslai\programavimo failai\Laboras2(sem2)\laboras2_2sem\bin\Debug\laboras2_2sem.exe.config
+C:\Mokslai\programavimo failai\Laboras2(sem2)\laboras2_2sem\bin\Debug\laboras2_2sem.exe
+C:\Mokslai\programavimo failai\Laboras2(sem2)\laboras2_2sem\bin\Debug\laboras2_2sem.pdb
+C:\Mokslai\programavimo failai\Laboras2(sem2)\laboras2_2sem\obj\Debug\laboras2_2sem.csprojAssemblyReference.cache
+C:\Mokslai\programavimo failai\Laboras2(sem2)\laboras2_2sem\obj\Debug\laboras2_2sem.Form1.resources
+C:\Mokslai\programavimo failai\Laboras2(sem2)\laboras2_2sem\obj\Debug\laboras2_2sem.Properties.Resources.resources
+C:\Mokslai\programavimo failai\Laboras2(sem2)\laboras2_2sem\obj\Debug\laboras2_2sem.csproj.GenerateResource.cache
+C:\Mokslai\programavimo failai\Laboras2(sem2)\laboras2_2sem\obj\Debug\laboras2_2sem.csproj.CoreCompileInputs.cache
+C:\Mokslai\programavimo failai\Laboras2(sem2)\laboras2_2sem\obj\Debug\laboras2_2sem.exe
+C:\Mokslai\programavimo failai\Laboras2(sem2)\laboras2_2sem\obj\Debug\laboras2_2sem.pdb

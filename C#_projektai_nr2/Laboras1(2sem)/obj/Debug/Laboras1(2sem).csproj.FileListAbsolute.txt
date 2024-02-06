@@ -1,0 +1,49 @@
+C:\Users\Martynas\source\repos\Laboras1(2sem)\Laboras1(2sem)\bin\Debug\Laboras1(2sem).exe.config
+C:\Users\Martynas\source\repos\Laboras1(2sem)\Laboras1(2sem)\bin\Debug\Laboras1(2sem).exe
+C:\Users\Martynas\source\repos\Laboras1(2sem)\Laboras1(2sem)\bin\Debug\Laboras1(2sem).pdb
+C:\Users\Martynas\source\repos\Laboras1(2sem)\Laboras1(2sem)\obj\Debug\Laboras1_2sem_.Form1.resources
+C:\Users\Martynas\source\repos\Laboras1(2sem)\Laboras1(2sem)\obj\Debug\Laboras1_2sem_.Properties.Resources.resources
+C:\Users\Martynas\source\repos\Laboras1(2sem)\Laboras1(2sem)\obj\Debug\Laboras1(2sem).csproj.GenerateResource.cache
+C:\Users\Martynas\source\repos\Laboras1(2sem)\Laboras1(2sem)\obj\Debug\Laboras1(2sem).csproj.CoreCompileInputs.cache
+C:\Users\Martynas\source\repos\Laboras1(2sem)\Laboras1(2sem)\obj\Debug\Laboras1(2sem).exe
+C:\Users\Martynas\source\repos\Laboras1(2sem)\Laboras1(2sem)\obj\Debug\Laboras1(2sem).pdb
+C:\Users\Martynas\source\repos\Laboras1(2sem)\Laboras1(2sem)\bin\Debug\Krepsininkai1.txt
+C:\Users\Martynas\source\repos\Laboras1(2sem)\Laboras1(2sem)\bin\Debug\Krepsininkai2.txt
+C:\Users\Martynas\source\repos\Laboras1(2sem)\Laboras1(2sem)\bin\Debug\Rezultatai.txt
+C:\Users\Martynas\source\repos\Laboras1(2sem)\Laboras1(2sem)\obj\Debug\Laboras1(2sem).csprojAssemblyReference.cache
+C:\Users\marbur4\Desktop\MB\Laboras1(2sem)\bin\Debug\Krepsininkai1.txt
+C:\Users\marbur4\Desktop\MB\Laboras1(2sem)\bin\Debug\Krepsininkai2.txt
+C:\Users\marbur4\Desktop\MB\Laboras1(2sem)\bin\Debug\Laboras1(2sem).exe.config
+C:\Users\marbur4\Desktop\MB\Laboras1(2sem)\bin\Debug\Laboras1(2sem).exe
+C:\Users\marbur4\Desktop\MB\Laboras1(2sem)\bin\Debug\Laboras1(2sem).pdb
+C:\Users\marbur4\Desktop\MB\Laboras1(2sem)\obj\Debug\Laboras1(2sem).csprojAssemblyReference.cache
+C:\Users\marbur4\Desktop\MB\Laboras1(2sem)\obj\Debug\Laboras1_2sem_.Form1.resources
+C:\Users\marbur4\Desktop\MB\Laboras1(2sem)\obj\Debug\Laboras1_2sem_.Properties.Resources.resources
+C:\Users\marbur4\Desktop\MB\Laboras1(2sem)\obj\Debug\Laboras1(2sem).csproj.GenerateResource.cache
+C:\Users\marbur4\Desktop\MB\Laboras1(2sem)\obj\Debug\Laboras1(2sem).csproj.CoreCompileInputs.cache
+C:\Users\marbur4\Desktop\MB\Laboras1(2sem)\obj\Debug\Laboras1(2sem).exe
+C:\Users\marbur4\Desktop\MB\Laboras1(2sem)\obj\Debug\Laboras1(2sem).pdb
+C:\Users\Martynas\Desktop\Laboras1(2sem)\obj\Debug\Laboras1_2sem_.Form1.resources
+C:\Users\Martynas\Desktop\Laboras1(2sem)\obj\Debug\Laboras1_2sem_.Properties.Resources.resources
+C:\Users\Martynas\Desktop\Laboras1(2sem)\obj\Debug\Laboras1(2sem).csproj.GenerateResource.cache
+C:\Users\Martynas\Desktop\Laboras1(2sem)\obj\Debug\Laboras1(2sem).csproj.CoreCompileInputs.cache
+C:\Users\Martynas\Desktop\Laboras1(2sem)\bin\Debug\Laboras1(2sem).exe.config
+C:\Users\Martynas\Desktop\Laboras1(2sem)\bin\Debug\Laboras1(2sem).exe
+C:\Users\Martynas\Desktop\Laboras1(2sem)\bin\Debug\Laboras1(2sem).pdb
+C:\Users\Martynas\Desktop\Laboras1(2sem)\obj\Debug\Laboras1(2sem).exe
+C:\Users\Martynas\Desktop\Laboras1(2sem)\obj\Debug\Laboras1(2sem).pdb
+C:\Users\Martynas\Desktop\Laboras1(2sem)\obj\Debug\Laboras1(2sem).csprojAssemblyReference.cache
+C:\Users\Martynas\Desktop\Laboras1(2sem)\bin\Debug\Players1.txt
+C:\Users\Martynas\Desktop\Laboras1(2sem)\bin\Debug\Players2.txt
+C:\Mokslai\programavimo failai\Laboras1(2sem)\bin\Debug\Players1.txt
+C:\Mokslai\programavimo failai\Laboras1(2sem)\bin\Debug\Players2.txt
+C:\Mokslai\programavimo failai\Laboras1(2sem)\bin\Debug\Laboras1(2sem).exe.config
+C:\Mokslai\programavimo failai\Laboras1(2sem)\bin\Debug\Laboras1(2sem).exe
+C:\Mokslai\programavimo failai\Laboras1(2sem)\bin\Debug\Laboras1(2sem).pdb
+C:\Mokslai\programavimo failai\Laboras1(2sem)\obj\Debug\Laboras1(2sem).csprojAssemblyReference.cache
+C:\Mokslai\programavimo failai\Laboras1(2sem)\obj\Debug\Laboras1_2sem_.Form1.resources
+C:\Mokslai\programavimo failai\Laboras1(2sem)\obj\Debug\Laboras1_2sem_.Properties.Resources.resources
+C:\Mokslai\programavimo failai\Laboras1(2sem)\obj\Debug\Laboras1(2sem).csproj.GenerateResource.cache
+C:\Mokslai\programavimo failai\Laboras1(2sem)\obj\Debug\Laboras1(2sem).csproj.CoreCompileInputs.cache
+C:\Mokslai\programavimo failai\Laboras1(2sem)\obj\Debug\Laboras1(2sem).exe
+C:\Mokslai\programavimo failai\Laboras1(2sem)\obj\Debug\Laboras1(2sem).pdb
