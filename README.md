@@ -11,8 +11,14 @@ file you can find my first five mini projects from my first semester.
 </p>
 
 <h3>Contents of C#_projektai_nr1:</h3>
-
-
+LAB1
+Task:
+• Create a class called "Student" with variables to store age and height. Three students decided to practice basketball. Find out the age of the tallest student and the height of the youngest student.
+• Add a variable to the "Student" class to store the student's weight. Create a class called "Elevator" with variables for the lifting power and capacity of the elevator. Will all the students be able to lift the elevator to the required height several times?
+• Add methods to the "Elevator" class, such as "Set()", which allow changing the lifting power and capacity of the elevator. Will all the students be lifted to the required height at the same time if the lifting power of the elevator is doubled? What if the capacity is doubled?
+<br>
+LAB2
+Task:
 
 
 
