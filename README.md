@@ -10,7 +10,7 @@ file you can find my first five mini projects from my first semester.
   to see the documentation of my work from first semester
 </p>
 
-<h3>Contents:</h3>
+<h1>Contents:</h1>
 
 
 
