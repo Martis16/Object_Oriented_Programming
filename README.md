@@ -16,7 +16,7 @@ LAB1
 <br>• Create a class called "Student" with variables to store age and height. Three students decided to practice basketball. Find out the age of the tallest student and the height of the youngest student.
 <br>• Add a variable to the "Student" class to store the student's weight. Create a class called "Elevator" with variables for the lifting power and capacity of the elevator. Will all the students be able to lift the elevator to the required height several times?
 <br>• Add methods to the "Elevator" class, such as "Set()", which allow changing the lifting power and capacity of the elevator. Will all the students be lifted to the required height at the same time if the lifting power of the elevator is doubled? What if the capacity is doubled?
-<br>
+<br><br>
 LAB2
 Task:
 
