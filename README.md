@@ -10,7 +10,7 @@ file you can find my first five mini projects from my first semester.
   to see the documentation of my work from first semester
 </p>
 
-<h1>Contents:</h1>
+<h3>Contents of C#_projektai_nr1:</h3>
 
 
 
@@ -26,3 +26,4 @@ file you can find my first five mini projects from my first semester.
   <a href="https://github.com/Martis16/Object_Oriented_Programming/blob/main/C%23_projektai_nr2/IFIN-12_Martynas_Burneika.pdf"> here </a>
   to see the documentation of my work from second semester
 </p>
+<h3>Contents of C#_projektai_nr2:</h3>
