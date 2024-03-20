@@ -9,13 +9,9 @@ file you can find my first five mini projects from my first semester.
   <a href="https://github.com/Martis16/Object_Oriented_Programming/blob/main/C%23_projektai_nr1/IFIN12_Burneika_Martynas.pdf"> here </a>
   to see the documentation of my work from first semester
 </p>
-<a href="#" onclick="toggle_visibility('foo');">  
-Click here to toggle visibility of element #foo</a>
 
 <h3>Contents of C#_projektai_nr1:</h3>
 
-<div id="toggle">
-<p>
 LAB1
 <br>Task:
 <br>• Create a class called "Student" with variables to store age and height. Three students decided to practice basketball. Find out the age of the tallest student and the height of the youngest student.
@@ -46,8 +42,7 @@ LAB5
 <br>• Add a variable to the "Student" class to store the student's weight. Create a class called "Elevator" with variables for the lifting power and capacity of the elevator. Will all the students be able to lift the elevator to the required height several times?
 <br>• Add methods to the "Elevator" class, such as "Set()", which allow changing the lifting power and capacity of the elevator. Will all the students be lifted to the required height at the same time if the lifting power of the elevator is doubled? What if the capacity is doubled?
 <br><br>
-</p>
-</div>
+
 <br><br>
 In  <a href="https://github.com/Martis16/Object_Oriented_Programming/tree/main/C%23_projektai_nr2"> C#_projektai_nr2 </a>
 file you can find my first five mini projects from my first semester. 
@@ -59,13 +54,19 @@ file you can find my first five mini projects from my first semester.
 </p>
 <h3>Contents of C#_projektai_nr2:</h3>
 
-<style>
-#toggle p {
-  display: none; 
-}
+<button onclick="toggleDiv()">Toggle</button>
+<div id="toggleContent" style="display: none;">
+  This is the content that will be toggled.
+</div>
 
-#toggle.clicked p {
-  display: block; 
-  cursor: pointer;
-}
-</style>
+
+<script>
+  function toggleDiv() {
+    var div = document.getElementById('toggleContent');
+    if (div.style.display === 'none') {
+      div.style.display = 'block';
+    } else {
+      div.style.display = 'none';
+    }
+  }
+</script>
