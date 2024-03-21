@@ -18,6 +18,7 @@ file you can find my five mini projects from my second semester.
   <a href="https://github.com/Martis16/Object_Oriented_Programming/blob/main/C%23_projektai_nr2/IFIN-12_Martynas_Burneika.pdf"> here </a>
   to see the documentation of my work from second semester
 </p>
+
 <h3>Contents of C#_projektai_nr1:</h3>
 
 LAB1
