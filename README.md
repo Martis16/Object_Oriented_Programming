@@ -48,7 +48,7 @@ LAB5
 
 <br><br>
 In  <a href="https://github.com/Martis16/Object_Oriented_Programming/tree/main/C%23_projektai_nr2"> C#_projektai_nr2 </a>
-file you can find my first five mini projects from my first semester. 
+file you can find my five mini projects from my second semester. 
 
 <p>
   Click
